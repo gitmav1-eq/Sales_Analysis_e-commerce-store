@@ -137,6 +137,5 @@ Feel free to **fork this repository**, create a new branch, and submit a **pull 
 ---
 
 ## 📬 Contact
-📧 Email: vratesh9405@gmail.com  
-🔗 LinkedIn: [Your LinkedIn Profile]  
+📧 Email: vratesh9405@gmail.com 
 
